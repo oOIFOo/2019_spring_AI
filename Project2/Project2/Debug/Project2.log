@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\oifo\人工智慧\project2\project2\source.cpp(53): warning C4101: 'buf': 未參考的區域變數
+c:\users\user\desktop\oifo\人工智慧\project2\project2\source.cpp(114): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\oifo\人工智慧\project2\project2\source.cpp(138): warning C4715: 'max': 不是所有控制路徑都傳回值
+  Project2.vcxproj -> C:\Users\User\Desktop\OIFO\人工智慧\Project2\Debug\Project2.exe
